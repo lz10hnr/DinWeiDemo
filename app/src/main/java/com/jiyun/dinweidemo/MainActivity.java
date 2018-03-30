@@ -104,6 +104,8 @@ public class MainActivity extends AppCompatActivity implements LocationSource, A
     }
 
     private void initMarkerOption() {
+
+        //张标长的很帅
         initMapInc();
 //        if (marker != null){
 //            marker.remove();
